@@ -1,0 +1,50 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01//EN" "http://www.w3.org/TR/html4/strict.dtd">
+<html lang="en">
+<head>
+  <meta http-equiv="Content-Type" content="text/html;charset=UTF-8">
+  <title>Document</title>
+    <style>
+    <body>
+      {
+        background-color: #C060E7
+      }
+    </body>
+  </style>
+</head>
+<body>
+  
+  <form>
+      <p> <h1>Information</h1></p>
+    
+   <b Information </b><br><br>
+      Enter Name :<input type="text"placeholder="name"><br>
+      <br>
+      Enter Number  :<input type="number"placeholder="number"><br>
+      <br>
+      Enter Email id:<input type="Email"placeholder="email"><br>
+      <br>
+
+      Enter Password: <input type="password"placeholder="password"><br>
+      <br>
+      gender <br>
+      male. <input type="radio" name="gender" value="male"> <br>
+       female<input type="radio" name="gender" value="female"><br><br>
+       Subject <br>
+       
+      
+      Html<input type="checkbox" name=html id="html" />
+      js <input type="checkbox">
+      .net <input type="checkbox">
+      css <input type="checkbox">
+    
+      <br><br>
+     <input type="submit">
+     <br>
+     <br><br>
+        
+      
+  </form>
+  
+  
+</body>
+</html>
